@@ -15,7 +15,6 @@ Upon joining, users provide personal details such as monthly plastic production 
 
 **TECHNOLOGY STACK:**
 1. **Frontend:**
-   - Node.js
    - HTML
    - CSS
    - Express
